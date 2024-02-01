@@ -2560,7 +2560,7 @@ a [class^=icon-] {
     top: 50%;
     margin-left: -40px;
     margin-top: -40px;
-    background: url(owl.video.play.png) no-repeat;
+    background: url(owl.video.play.webp) no-repeat;
     cursor: pointer;
     z-index: 1;
     -webkit-backface-visibility: hidden;
@@ -3004,23 +3004,23 @@ a [class^=icon-] {
 }
 
 .fs_controls_append a.fs_slider_prev:before {
-    background: url(../img/soho_sprite.png) -82px -20px no-repeat !important
+    background: url(../img/soho_sprite.webp) -82px -20px no-repeat !important
 }
 
 .fs_controls_append a.fs_slider_next:before {
-    background: url(../img/soho_sprite.png) -119px -20px no-repeat !important
+    background: url(../img/soho_sprite.webp) -119px -20px no-repeat !important
 }
 
 a.close_controls:before {
-    background: url(../img/soho_sprite.png) -132px -20px no-repeat !important
+    background: url(../img/soho_sprite.webp) -132px -20px no-repeat !important
 }
 
 .fs_controls_append a.fs_close:before {
-    background: url(../img/soho_sprite.png) -147px -20px no-repeat !important
+    background: url(../img/soho_sprite.webp) -147px -20px no-repeat !important
 }
 
 .fs_controls_append a.post_info:before {
-    background: url(../img/soho_sprite.png) -182px -20px no-repeat !important
+    background: url(../img/soho_sprite.webp) -182px -20px no-repeat !important
 }
 
 .fs_controls_append a.post_info.noContent:before {
@@ -3028,11 +3028,11 @@ a.close_controls:before {
 }
 
 .fs_controls_append a.fs_pause:before {
-    background: url(../img/soho_sprite.png) -107px -20px no-repeat !important
+    background: url(../img/soho_sprite.webp) -107px -20px no-repeat !important
 }
 
 .fs_controls_append a.fs_play:before {
-    background: url(../img/soho_sprite.png) -94px -20px no-repeat !important
+    background: url(../img/soho_sprite.webp) -94px -20px no-repeat !important
 }
 
 .show_me_always {
@@ -3319,51 +3319,51 @@ canvas#kenburns {
 }
 
 .socials_list li a.ico_social_facebook {
-    background: url(../img/soho_sprite.png) no-repeat
+    background: url(../img/soho_sprite.webp) no-repeat
 }
 
 .socials_list li a.ico_social_pinterest {
-    background: url(../img/soho_sprite.png) -20px 0 no-repeat
+    background: url(../img/soho_sprite.webp) -20px 0 no-repeat
 }
 
 .socials_list li a.ico_social_twitter {
-    background: url(../img/soho_sprite.png) -40px 0 no-repeat
+    background: url(../img/soho_sprite.webp) -40px 0 no-repeat
 }
 
 .socials_list li a.ico_social_instagram {
-    background: url(../img/soho_sprite.png) -60px 0 no-repeat
+    background: url(../img/soho_sprite.webp) -60px 0 no-repeat
 }
 
 .socials_list li a.ico_social_tumblr {
-    background: url(../img/soho_sprite.png) -80px 0 no-repeat
+    background: url(../img/soho_sprite.webp) -80px 0 no-repeat
 }
 
 .socials_list li a.ico_social_flickr {
-    background: url(../img/soho_sprite.png) -100px 0 no-repeat
+    background: url(../img/soho_sprite.webp) -100px 0 no-repeat
 }
 
 .socials_list li a.ico_social_youtube {
-    background: url(../img/soho_sprite.png) -120px 0 no-repeat
+    background: url(../img/soho_sprite.webp) -120px 0 no-repeat
 }
 
 .socials_list li a.ico_social_dribbble {
-    background: url(../img/soho_sprite.png) -140px 0 no-repeat
+    background: url(../img/soho_sprite.webp) -140px 0 no-repeat
 }
 
 .socials_list li a.ico_social_gplus {
-    background: url(../img/soho_sprite.png) -160px 0 no-repeat
+    background: url(../img/soho_sprite.webp) -160px 0 no-repeat
 }
 
 .socials_list li a.ico_social_vimeo {
-    background: url(../img/soho_sprite.png) -180px 0 no-repeat
+    background: url(../img/soho_sprite.webp) -180px 0 no-repeat
 }
 
 .socials_list li a.ico_social_delicious {
-    background: url(../img/soho_sprite.png) -200px 0 no-repeat
+    background: url(../img/soho_sprite.webp) -200px 0 no-repeat
 }
 
 .socials_list li a.ico_social_linked {
-    background: url(../img/soho_sprite.png) -220px 0 no-repeat
+    background: url(../img/soho_sprite.webp) -220px 0 no-repeat
 }
 
 .phone {
@@ -4151,7 +4151,7 @@ h5.shortcode_toggles_item_title:hover .ico:before {
     right: 11px;
     top: 12px;
     display: block;
-    background: url(../img/soho_sprite.png) -7px -21px no-repeat;
+    background: url(../img/soho_sprite.webp) -7px -21px no-repeat;
     transition: opacity 250ms
 }
 
@@ -4160,19 +4160,19 @@ h5.shortcode_toggles_item_title:hover .ico:before {
 }
 
 .shortcode_messagebox.box_type2 .box_close {
-    background: url(../img/soho_sprite.png) -16px -21px no-repeat
+    background: url(../img/soho_sprite.webp) -16px -21px no-repeat
 }
 
 .shortcode_messagebox.box_type3 .box_close {
-    background: url(../img/soho_sprite.png) -25px -21px no-repeat
+    background: url(../img/soho_sprite.webp) -25px -21px no-repeat
 }
 
 .shortcode_messagebox.box_type4 .box_close {
-    background: url(../img/soho_sprite.png) -34px -21px no-repeat
+    background: url(../img/soho_sprite.webp) -34px -21px no-repeat
 }
 
 .shortcode_messagebox.box_type5 .box_close {
-    background: url(../img/soho_sprite.png) -43px -21px no-repeat
+    background: url(../img/soho_sprite.webp) -43px -21px no-repeat
 }
 
 .shortcode_button,
@@ -4794,7 +4794,7 @@ a.shortcode_button {
     left: -6px;
     top: 50%;
     margin-top: -3px;
-    background: url(../img/soho_sprite.png) 0 -21px no-repeat
+    background: url(../img/soho_sprite.webp) 0 -21px no-repeat
 }
 
 .testimonials_footer {
@@ -5133,7 +5133,7 @@ a.shortcode_social_icon:hover {
     width: 29px;
     height: 11px;
     display: block;
-    background: url(../img/soho_sprite.png) -53px -20px no-repeat;
+    background: url(../img/soho_sprite.webp) -53px -20px no-repeat;
     position: absolute;
     top: 50%;
     margin: -5px 0 0 -15px
@@ -6125,7 +6125,7 @@ blockquote.shortcode_blockquote .author {
     position: absolute;
     left: -6px;
     top: 18px;
-    background: url(../img/soho_sprite.png) 0 -21px no-repeat
+    background: url(../img/soho_sprite.webp) 0 -21px no-repeat
 }
 
 .comment_box .comment-reply-link {
@@ -8503,7 +8503,7 @@ body.mfp-zoom-out-cur {
     -webkit-transform: translateY(-50%);
     transition: opacity 300ms;
     -webkit-transition: opacity 300ms;
-    background-image: url(../img/soho_sprite.png) !important;
+    background-image: url(../img/soho_sprite.webp) !important;
     background-repeat: no-repeat !important
 }
 
@@ -8596,7 +8596,7 @@ body.mfp-zoom-out-cur {
     right: 0;
     top: -2px;
     display: block;
-    background-image: url(../img/soho_sprite.png);
+    background-image: url(../img/soho_sprite.webp);
     background-repeat: no-repeat;
     background-position: -196px -22px
 }

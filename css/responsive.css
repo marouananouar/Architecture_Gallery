@@ -47,7 +47,7 @@ only screen and (min-resolution:144dpi) {
     .socials_list li a.ico_social_youtube,
     .testimonials_text:before,
     a.close_controls:before {
-        background-image: url(../img/retina/soho_sprite.png) !important;
+        background-image: url(../img/retina/soho_sprite.webp) !important;
         background-size: 240px 35px !important
     }
 }
@@ -522,7 +522,7 @@ only screen and (min-resolution:144dpi) {
         height: 14px;
         display: block !important;
         position: absolute;
-        background: url(../img/retina/soho_sprite.png) -162px -20px no-repeat;
+        background: url(../img/retina/soho_sprite.webp) -162px -20px no-repeat;
         background-size: 240px 35px;
         right: 25px;
         top: 17px
